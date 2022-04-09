@@ -1,0 +1,35 @@
+.btn {
+    background-color: rgb(130, 14, 240);
+    text-align: center;
+    height: 35px;
+    width: 250px;
+    color: white;
+    border: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    display: inline-block;
+    border-radius: 8px;
+}
+
+.hero {
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+}
+
+.score-time {
+    display: flex;
+    justify-content: space-between;
+}
+
+.score-text {
+    color: rgb(241, 123, 241);
+}
+
+.question {
+    display: none;
+}
+
+.results {
+    display: none;
+}
